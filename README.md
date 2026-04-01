@@ -66,7 +66,7 @@ There is no code to write. This is a reading and reasoning exercise.
 2. Add your answers in `solution.md`
 3. Raise a pull request with your name, email address, and the role you are applying for in the PR description
 
-**Target time**: 60 minutes. The questions are designed to be answerable by reading the code, not by external research.
+**Estimated time for assessment**: 60 minutes. 
 
 ---
 
@@ -74,5 +74,5 @@ There is no code to write. This is a reading and reasoning exercise.
 
 - You may use any tools or IDE you prefer
 - The seed data in `seed_jobs.py` represents the actual state of a running system — treat it as ground truth
-- Function and class names referenced in questions match the code exactly
-- There are no trick questions about Python syntax
+
+
